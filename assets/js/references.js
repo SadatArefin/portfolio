@@ -5,30 +5,30 @@ const references = [
     sl1: 1,
     name1 : "Daiyan Chowdhury",
         designation1 : "Technician, Arizona, USA",
-        image1 : "https://avatars.githubusercontent.com/u/46641503?v=4",
-        message1 : "Rafat is a conscientious individual whom I mentored during JWOC'2021. His problem-solving skills and a keen interest in learning new skillsets are remarkable. His hardworking nature and team-building abilities make him different from others.",
+        image1 : "",
+        message1 : "Rafat built many websites for me.",
         
 
         sl2:2,
         name2 : "Al Jobaed",
         designation2 : "Senior Software Engineer, HawarIT, Bangladesh", 
-        image2: "https://avatars.githubusercontent.com/u/40017559?v=4",
-        message2 : "Sadat bhai has the best grasping skills I have seen in a new developer. I got to know him through GSSOC'2021 when I mentored him, and he made an exceptional growth during the competition. He made some incredible contributions and has good experience with Open Source.",
+        image2: "",
+        message2 : "I worked with Sadat bhai in multiple projects and he was a great team player. He is a quick learner and has a good understanding of the technologies he works with. He is a good problem solver and has a good understanding of the fundamentals of programming.",
     },
 
     {
         sl1:3,
         name1 : "Mohammad Abdullah Al Prince",
         designation1 : "Team Lead & Software Architect, HawarIT, Bangladesh",
-        image1 : "https://media-exp1.licdn.com/dms/image/C5603AQGEV-kzawPxjw/profile-displayphoto-shrink_800_800/0/1588602102622?e=1651708800&v=beta&t=8nxhFoR-WB4OKVltyYaVjmRpig_kQcvFsoa-eLjJPBQ",
-        message1 : "Rafat and I have worked on several projects. Apart from technical skills, he also has good soft skills. He has good experience with debugging and has excellent leadership qualities.",
+        image1 : "",
+        message1 : "Sadat worked under my leadership in multiple projects. He is a quick learner and has a good understanding of the technologies he works with. He is a good problem solver and has a good understanding of the fundamentals of programming.",
         
 
         sl2:4,
         name2 : "Professor Dr. Hasanul Kabir",
         designation2 : "Professor & Head, Department of CSE, IUT, Bangladesh",
-        image2 : "https://avatars.githubusercontent.com/u/59832779?v=4",
-        message2 : "Rafat and I worked together during a hackathon and the thing that surprised me the most about him was his knowledge of fundamentals. He offered sincere help to the team throughout the competition. He is an impressive problem solver who is able to address complex issues strategically and confidently.",
+        image2 : "",
+        message2 : "Rafat worked under my supervision for Computer Vision Lab where he did his thesis in Image Super Resolution. He is a hardworking and dedicated student. He has a good understanding of the fundamentals of programming and has a good problem-solving skill.",
   },
 ];
 
