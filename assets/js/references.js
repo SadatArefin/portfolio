@@ -4,16 +4,16 @@ const references = [
   {
     sl1: 1,
     name1 : "Daiyan Chowdhury",
-        designation1 : "Technician, Arizona, USA",
+        designation1 : "Mobile Repair Technician & Rising Entrepreneur, Arizona, USA",
         image1 : "",
-        message1 : "Rafat built many websites for me.",
+        message1 : "Rafat built many websites together with me for many different clients. We also built Dhaka Guide website together to help people find their desired places in Dhaka. He has many innovative ideas regarding the absurd ideas I come up with.",
         
 
         sl2:2,
         name2 : "Al Jobaed",
         designation2 : "Senior Software Engineer, HawarIT, Bangladesh", 
         image2: "",
-        message2 : "I worked with Sadat bhai in multiple projects and he was a great team player. He is a quick learner and has a good understanding of the technologies he works with. He is a good problem solver and has a good understanding of the fundamentals of programming.",
+        message2 : "I worked with Sadat bhai in multiple projects and he was a great team player & very pleasant to work with. He also has great domain knowledge in the field of Revit and BIM." ,
     },
 
     {
@@ -21,14 +21,14 @@ const references = [
         name1 : "Mohammad Abdullah Al Prince",
         designation1 : "Team Lead & Software Architect, HawarIT, Bangladesh",
         image1 : "",
-        message1 : "Sadat worked under my leadership in multiple projects. He is a quick learner and has a good understanding of the technologies he works with. He is a good problem solver and has a good understanding of the fundamentals of programming.",
+        message1 : "Sadat worked under my leadership in multiple projects. He is a quick learner and has a good understanding of the technologies he works with. We worked together with Azure technologies to troubleshoot and fix the issues on production and he did a great job.",
         
 
         sl2:4,
         name2 : "Professor Dr. Hasanul Kabir",
         designation2 : "Professor & Head, Department of CSE, IUT, Bangladesh",
         image2 : "",
-        message2 : "Rafat worked under my supervision for Computer Vision Lab where he did his thesis in Image Super Resolution. He is a hardworking and dedicated student. He has a good understanding of the fundamentals of programming and has a good problem-solving skill.",
+        message2 : "Rafat worked under my supervision for Computer Vision Lab where he did his thesis in Image Super Resolution. His research on Image Super Resolution explored many different models in multiple fields. He has a good understanding of Deep Learning algorithsm especially in the field of Computer Vision.",
   },
 ];
 

@@ -6,24 +6,24 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Software Engineer",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/experience-page/hawarit.jpg",
     place: "HawarIT Limited",
     time: "(August, 2023 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<p><strong>Responsibilities:</strong><li>Developing web applications and automation tools, improving cross-departmental workflow efficiency</li> <li>Implementing cloud-based solutions with focus on security and performance</li> <li>Creating CI/CD pipelines and monitoring systems to ensure reliable deployments</li> <li>Conducting system architecture reviews and suggesting improvements based on user feedback</li><li>Mentoring junior developers and facilitating technical knowledge transfer</li></p><p><strong>Key Contributions</strong><li>Enhanced system security through implementation of enterprise authentication</li><li>Optimized application performance resulting in 30% reduction in resource usage</li><li>Implemented real-time communication features improving user collaboration</li><li>Developed 3D visualization solutions for complex technical data</li><li>Led critical bug fixes and system stability improvements in production environment</li></p>",
   },
   {
     title: "Trainee Software Engineer",
-    cardImage: "assets/images/experience-page/gsoc.png",
+    cardImage: "assets/images/experience-page/tactsoftlogo.png",
     place: "Tactsoft Ltd.",
     time: "(May - July, 2023)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<ul><li>Worked on ERP based projects with .NET Core Web API, Angular and Microsoft Dynamics.</li><ul>",
   },
   {
     title: "Mobile Application Developer Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
+    cardImage: "assets/images/experience-page/battery-low.jpeg",
     place: "Battery Low Interactive Ltd.",
     time: "(Oct - Dec, 2021)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp: "<ul><li>Learned about App Development with Flutter with basic projects</li></ul>",
   },
 ];
 
@@ -65,13 +65,13 @@ const volunteershipcards = [
     title: "IUT Computer Society",
     cardImage: "assets/images/experience-page/3.jpg",
     description:
-      "Developing Website for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "Developing Website for the society. Organizing Industry Academia Collaboration. Mentoring after graduation.",
   },
   {
     title: "Youth in Digital Awareness",
-    cardImage: "assets/images/experience-page/4.jpg",
+    cardImage: "assets/images/experience-page/4.png",
     description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+      "Writing articles about web security and digital literacy. Conducting workshops on cyber awareness.",
   },
 ];
 
